@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.util.UriComponentsBuilder;
 
-import com.example.dto.EntityDTO;
+import com.example.EntityDTO;
 import com.example.sender.service.Sender;
 
 @RestController
